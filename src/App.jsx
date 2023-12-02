@@ -19,8 +19,6 @@ import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Stars
               <Contact />
               <StarsCanvas />
             </div>
-
-            
           </div>
         </BrowserRouter>
     )
