@@ -8,8 +8,9 @@ import {
     html,
     css,
     reactjs,
-    redux,
+    // redux,
     tailwind,
+    bootstrap,
     nodejs,
     mongodb,
     git,
@@ -19,10 +20,6 @@ import {
     starbucks,
     tesla,
     shopify,
-    // carrent,
-    // jobit,
-    // tripguide,
-    threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -81,13 +78,17 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
+    },
+    {
+      name: "Bootstrap",
+      icon: bootstrap,
     },
     {
       name: "Node JS",
@@ -97,10 +98,10 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
+    // {
+    //   name: "Three JS",
+    //   icon: threejs,
+    // },
     {
       name: "git",
       icon: git,
@@ -109,10 +110,6 @@ import {
       name: "figma",
       icon: figma,
     },
-    // {
-    //   name: "docker",
-    //   icon: docker,
-    // },
   ];
   
   const experiences = [
