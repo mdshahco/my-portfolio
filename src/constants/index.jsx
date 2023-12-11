@@ -15,7 +15,7 @@ import {
     mongodb,
     git,
     figma,
-    // docker,
+    // threejs,
     meta,
     starbucks,
     tesla,
@@ -98,10 +98,6 @@ import {
       name: "MongoDB",
       icon: mongodb,
     },
-    // {
-    //   name: "Three JS",
-    //   icon: threejs,
-    // },
     {
       name: "git",
       icon: git,
@@ -110,6 +106,10 @@ import {
       name: "figma",
       icon: figma,
     },
+    // {
+    //   name: "Three JS",
+    //   icon: threejs,
+    // },
   ];
   
   const experiences = [
