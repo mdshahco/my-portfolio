@@ -11,10 +11,10 @@ import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Stars
               <Hero />
             </div>
             <About />
-            <Experience />
+            {/* <Experience /> */}
             <Tech />
             <Works />
-            <Feedbacks />
+            {/* <Feedbacks /> */}
             <div className="relative z-0">
               <Contact />
               <StarsCanvas />
