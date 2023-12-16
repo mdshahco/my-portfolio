@@ -8,14 +8,17 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
+import sass from "./tech/sass.png";
 // import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
+import gitHub from "./tech/gitHub.png"
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import vue from "./tech/vue.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import bootstrap from "./tech/bootstrap.png";
@@ -41,14 +44,17 @@ export {
   menu,
   close,
   css,
+  sass,
   // docker,
   figma,
   git,
+  gitHub,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
+  vue,
   redux,
   tailwind,
   bootstrap,

@@ -7,13 +7,16 @@ import {
     typescript,
     html,
     css,
+    sass,
     reactjs,
+    vue,
     // redux,
     tailwind,
     bootstrap,
     nodejs,
     mongodb,
     git,
+    gitHub,
     figma,
     // threejs,
     meta,
@@ -78,6 +81,10 @@ import {
       name: "React JS",
       icon: reactjs,
     },
+    {
+      name: "Vue",
+      icon: vue,
+    },
     // {
     //   name: "Redux Toolkit",
     //   icon: redux,
@@ -91,6 +98,10 @@ import {
       icon: bootstrap,
     },
     {
+      name: "sass",
+      icon: sass,
+    },
+    {
       name: "Node JS",
       icon: nodejs,
     },
@@ -101,6 +112,10 @@ import {
     {
       name: "git",
       icon: git,
+    },
+    {
+      name: "gitHub",
+      icon: gitHub,
     },
     {
       name: "figma",
